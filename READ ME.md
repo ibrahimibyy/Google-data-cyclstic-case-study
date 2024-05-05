@@ -55,11 +55,20 @@ R Query: Clean and analyse data set.r
 
 ## Analyze and Share
 [Number of Rides by Day of Week.pdf](https://github.com/ibrahimibyy/Google-data-cyclstic-case-study/files/15213692/Number.of.Rides.by.Day.of.Week.pdf)
+
+
 I visualized the frequency of rides per month categorized by member type. Casual riders showed a preference for biking during the summer months, notably July and August. Conversely, members exhibited a higher utilization rate compared to casual riders from September to May. Moreover, member usage remained relatively steady throughout the period from May to October, contrasting with the fluctuating pattern observed among casual riders.
+
+
 [Number of Rides per Month.pdf](https://github.com/ibrahimibyy/Google-data-cyclstic-case-study/files/15213691/Number.of.Rides.per.Month.pdf)
+
+
 Refining the data based on seasons offers a broader perspective. Summer emerges as the peak season with the highest usage among all users, accounting for 2,353,948 rides. Following this, fall records 1,745,818 rides, trailed by spring with 1,288,747 rides, and winter with 466,581 rides.
 
+
 [Number of Trips by Bicycle Type.pdf](https://github.com/ibrahimibyy/Google-data-cyclstic-case-study/files/15213709/Number.of.Trips.by.Bicycle.Type.pdf)
+
+
 Casual riders utilized all three types of bikes, with 1,233,228 rides on classic bicycles, 273,550 on docked bicycles, and 1,048,653 on electric-assisted bicycles. Among members, there were 1,980,105 rides on classic bicycles and 1,319,558 rides on electric-assisted bicycles. There is no available data indicating the use of docked bicycles by members.
 
 
