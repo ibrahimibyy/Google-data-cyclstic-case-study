@@ -54,19 +54,22 @@ R Query: Clean and analyse data set.r
 4. Total 1,375,912 rows are removed in this step.
 
 ## Analyze and Share
-[Number of Rides by Day of Week.pdf](https://github.com/ibrahimibyy/Google-data-cyclstic-case-study/files/15213692/Number.of.Rides.by.Day.of.Week.pdf)
+![image](https://github.com/ibrahimibyy/Google-data-cyclstic-case-study/assets/138511688/96170b23-422e-4a1e-8e4a-d8c65ff62ecd)
+
 
 
 I visualized the frequency of rides per month categorized by member type. Casual riders showed a preference for biking during the summer months, notably July and August. Conversely, members exhibited a higher utilization rate compared to casual riders from September to May. Moreover, member usage remained relatively steady throughout the period from May to October, contrasting with the fluctuating pattern observed among casual riders.
 
 
-[Number of Rides per Month.pdf](https://github.com/ibrahimibyy/Google-data-cyclstic-case-study/files/15213691/Number.of.Rides.per.Month.pdf)
+![image](https://github.com/ibrahimibyy/Google-data-cyclstic-case-study/assets/138511688/057cdc06-55cd-4500-b8d1-ffe720096e4a)
+
 
 
 Refining the data based on seasons offers a broader perspective. Summer emerges as the peak season with the highest usage among all users, accounting for 2,353,948 rides. Following this, fall records 1,745,818 rides, trailed by spring with 1,288,747 rides, and winter with 466,581 rides.
 
 
-[Number of Trips by Bicycle Type.pdf](https://github.com/ibrahimibyy/Google-data-cyclstic-case-study/files/15213709/Number.of.Trips.by.Bicycle.Type.pdf)
+
+![image](https://github.com/ibrahimibyy/Google-data-cyclstic-case-study/assets/138511688/9b718ac0-aadc-416a-ae11-9beeae333d23)
 
 
 Casual riders utilized all three types of bikes, with 1,233,228 rides on classic bicycles, 273,550 on docked bicycles, and 1,048,653 on electric-assisted bicycles. Among members, there were 1,980,105 rides on classic bicycles and 1,319,558 rides on electric-assisted bicycles. There is no available data indicating the use of docked bicycles by members.
