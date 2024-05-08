@@ -41,7 +41,7 @@ Reason:
 A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inability to manage large amounts of data. Because the Cyclistic dataset has more than 5.6 million rows, it is essential to use a platform like BigQuery that supports huge volumes of data.
 ### Combining the Data
 R Query: load data and combine data set .r
-12 csv files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing 5,667,717 rows of data for the entire year. 
+12 CSV files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing 5,667,717 rows of data for the entire year. 
 ### Data Exploration
 SQL Query: Clean and analyse data set.r
 Before cleaning the data, I am familiarizing myself with the data to find the inconsistencies.  
@@ -50,15 +50,15 @@ Before cleaning the data, I am familiarizing myself with the data to find the in
 R Query: Clean and analyse data set.r
 1. All the rows having missing values are deleted.  
 2. 3 more columns ride_length for duration of the trip, day_of_week and month are added.  
-3. Trips with duration less than a minute and longer than a day are excluded.
-4. Total 1,375,912 rows are removed in this step.
+3. Trips with duration of less than a minute and longer than a day are excluded.
+4. A total of 1,375,912 rows are removed in this step.
 
 ## Analyze and Share
 ![image](https://github.com/ibrahimibyy/Google-data-cyclstic-case-study/assets/138511688/96170b23-422e-4a1e-8e4a-d8c65ff62ecd)
 
 
 
-I visualized the frequency of rides per month categorized by member type. Casual riders showed a preference for biking during the summer months, notably July and August. Conversely, members exhibited a higher utilization rate compared to casual riders from September to May. Moreover, member usage remained relatively steady throughout the period from May to October, contrasting with the fluctuating pattern observed among casual riders.
+I created a chart that shows the number of bike rides taken each month, separated by the type of rider (member or casual). I found that casual riders tend to take more bike rides during the summer months, particularly in July and August. On the other hand, members tend to take more bike rides than casual riders from September to May. Additionally, member usage remained fairly consistent from May to October, while casual riders' usage varied a lot during that same time period.
 
 
 ![image](https://github.com/ibrahimibyy/Google-data-cyclstic-case-study/assets/138511688/057cdc06-55cd-4500-b8d1-ffe720096e4a)
