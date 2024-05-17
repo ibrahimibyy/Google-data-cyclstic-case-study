@@ -43,7 +43,7 @@ A worksheet can only have 1,048,576 rows in Microsoft Excel because of its inabi
 R Query: load data and combine data set .r
 12 CSV files are uploaded as tables in the dataset '2022_tripdata'. Another table named "combined_data" is created, containing 5,667,717 rows of data for the entire year. 
 ### Data Exploration
-SQL Query: Clean and analyse data set.r
+R Query: Clean and analyse data set.r
 Before cleaning the data, I am familiarizing myself with the data to find the inconsistencies.  
 
 ### Data Cleaning
